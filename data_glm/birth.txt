@@ -1,0 +1,6 @@
+This data set contains the number of children for each of 141 pregnant women.   The age of each mother or
+mother-to-be is also recorded.
+
+Variables:
+age	   	mother's age
+children 	number of children

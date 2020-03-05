@@ -1,0 +1,19 @@
+The Human Mortality Database (2007) provides mortality data for countries
+across periods of time. Recorded are the number of live births,
+deaths, and population at risk classified according to age and sex.
+From these are calculated such quantities as death rates and
+expectations of life. This text uses data for Sweden from 1951
+through to 2005.
+
+Variables:
+
+Year		1951,..., 2005
+Age		0, 1, ..., 109
+Female_Exp	female population
+Male_Exp	male population
+q_female	female death rate = Female_death/Female_Exp
+q_male		male death rate = Male_death/Male_Exp
+Female_death	number of female deaths
+Male_death	number of male deaths
+L_female_exp	log female population
+L_male_exp	log male population

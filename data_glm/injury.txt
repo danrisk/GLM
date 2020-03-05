@@ -1,0 +1,30 @@
+This data set consists of all drivers involved in a crash in 2004 in New South
+Wales, Australia. There are  a total of 82659
+drivers in the data set.   Drivers with unknown age, age less than
+17 years, or road user class ``Other" are omitted, leaving 76341
+cases.
+
+Variables:
+agecat		driver's age, coded as
+		1 = 17-20
+		2 = 21-25
+		3 = 26-29
+		10 = 30-39 (4 coded as 10 to be base level) 
+		5 = 40-49
+		6 = 50-59
+		7 = 60+
+
+roaduserclass	10 = car (coded to be base level)
+		2 = light truck
+		4 = bus / heavy rigid truck / articulated truck
+		6 = motorcycle
+
+sex		driver's sex: M, F
+
+degree		degree of crash, coded as
+		1 = non-casualty
+		2 = injury
+		3 = fatal
+
+number		frequency of crashes
+

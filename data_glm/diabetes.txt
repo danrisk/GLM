@@ -1,0 +1,7 @@
+The number of deaths due to diabetes in New South Wales, Australia in 2002 were provided by the Australian Institute of Health and Welfare, from their mortality database. 
+
+Variables:
+Gender		Male, Female
+Age		<25, 25-34, ..., 85+
+Deaths		number of deaths
+Popn		population size

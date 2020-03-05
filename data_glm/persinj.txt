@@ -1,0 +1,18 @@
+This data set contains information on  22036 settled personal
+injury insurance claims. These claims arose from accidents occurring
+from July 1989 through to  January 1999. Claims settled with zero
+payment are not included. 
+
+Variables:
+
+total		settled amount
+inj1, ..., inj5	injury 1,..., injury 5 coded as
+		1 = no injury
+		2, 3, 4, 5 = injury severities
+		6 = fatal injury
+		9 = not recorded
+legrep		legal representation (0 = no, 1 = yes)
+accmonth	accident month (1 = July 1989, ..., 120 = June 1999)
+repmonth	reporting month (as above)
+finmonth	finalization month (as above)
+op_time		operational time

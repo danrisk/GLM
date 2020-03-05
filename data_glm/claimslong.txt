@@ -1,0 +1,11 @@
+This is a simulated data set, based on the car insurance data set used throughout the text.
+There are 40000 policies over 3 years, giving 120000 records.
+
+Variables:
+
+poicyID	ID number of policy
+agecat	driver's age category: 1 (youngest), 2, 3, 4, 5, 6
+valuecat	vehicle value, in categories 1,...,6. (Category 1 has been recoded as 9.)
+period	1, 2, 3
+numclaims	number of claims
+

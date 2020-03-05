@@ -1,0 +1,17 @@
+Third party insurance is a compulsory insurance for vehicle owners
+in Australia. It insures vehicle owners against injury  caused to
+other drivers, passengers or pedestrians, as a result of an
+accident.
+
+This data set records the number of third party claims in a
+twelve-month period between 1984-1986 in each of 176 geographical
+areas (local government areas) in New South Wales, Australia.
+
+Variables:
+lga		local government area
+sd		statistical division (1, ..., 13)
+claims		number of third party claims
+accidents	number of accidents
+ki		number killed or injured
+population	population size
+pop_density	population density

@@ -1,0 +1,5 @@
+Variables:
+
+y		total payouts
+accyear		accident year
+devyear		development year

@@ -1,0 +1,31 @@
+This data set consists of drivers involved in a crash in 2004 in New South
+Wales, Australia, in which the involvement of blood alcohol concentration (BAC) was known. 
+
+Drivers with unknown age, age less than
+17 years, or unknown BAC are omitted, leaving 58890
+cases.
+
+Variables:
+agecat		driver's age, coded as
+		1 = 17-20
+		2 = 21-25
+		3 = 26-29
+		10 = 30-39 (4 coded as 10 to be base level) 
+		5 = 40-49
+		6 = 50-59
+		7 = 60+
+
+bac		1 = legal
+		2 = .020-.049 g/100mL
+		3 = .050-.079 g/100mL
+		4 = .080-.149 g/100mL
+		5 = >= .150 g/100mL
+
+sex		driver's sex: M, F
+
+degree		degree of crash, coded as
+		1 = non-casualty
+		2 = injury
+		3 = fatal
+
+number		frequency of crashes
